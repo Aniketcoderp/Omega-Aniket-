@@ -64,7 +64,7 @@ omegaarion-landing-page/
   </code></pre>
 
   <h2>Deployment</h2>
-  <p>Link: <a href="https://cozy-pegasus-b73281.netlify.app/" target="_blank">https://cozy-pegasus-b73281.netlify.app/</a></p>
+  <p>Link: <a href="https://thriving-twilight-4fb80f.netlify.app/" target="_blank">https://thriving-twilight-4fb80f.netlify.app/</a></p>
   <p>To build for production:</p>
   <pre><code>npm run build</code></pre>
 
