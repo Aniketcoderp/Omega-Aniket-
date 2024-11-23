@@ -318,6 +318,9 @@
   gap: 100px;
   padding-bottom: 76px;
 }
+.flex>div:nth-child(1){
+  margin-left: 20px;
+}
 .flex > div {
   width: 100%;
   max-width: 597px;
